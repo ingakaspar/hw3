@@ -1,2 +1,10 @@
-# hw3
-(https://docs.google.com/forms/d/e/1FAIpQLSfCx5ChEt1ql4BrDxW-ZulxhS52XlngLWcD78RTjcPEz3y-7A/viewform)
+# Название формы: That Sugar form 
+
+![](https://peopletalk.ru/wp-content/uploads/2017/04/1493117559.gif)
+## О Чем опрос
+В моем опросе поучаствовали *22 респондента*. Форма состоит из *10 вопросов*, *7 разделов*.
+Темой опроса является проблема потребления сахара среди молодежи, и цель моего мини-исследования - изучение предпочтений и вкусов учасников. На выбор темы повлиял документальный фильм "Caхар" (That sugar film) *режиссера* Дэймона Гамо. Своим опросом я надеялась привлечь внимание респондентов  к проблеме сахарной зависимости.
+ 
+[Cсылка на форму](https://docs.google.com/forms/d/e/1FAIpQLSfCx5ChEt1ql4BrDxW-ZulxhS52XlngLWcD78RTjcPEz3y-7A/viewform)
+
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1wS5TWsg_9j5z7WctgKqaCC3Dbg1c0r89TY4z76Lw-qs/edit#gid=1044632682&fvid=2091749598)
